@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "tradingview": {
+      "type": "stdio",
+      "command": "uv",
+      "args": ["run", "--directory", ".", "tradingview-mcp"]
+    }
+  }
+}
